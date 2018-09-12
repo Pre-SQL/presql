@@ -1,0 +1,16 @@
+{
+    "short_name": "Pre=SQL",
+    "name": "Pre-SQL: A Chrome extension for interacting with SQL databases",
+    "description": "A Chrome extension for interacting with SQL databases",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_title": "Pre-SQL: A Chrome extension for interacting with SQL databases"
+    },
+    "icons": {
+        "16": "icon.jpeg",
+        "48": "icon.jpeg",
+       "128": "icon.jpeg"
+    }
+  }
